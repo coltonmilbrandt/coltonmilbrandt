@@ -6,4 +6,4 @@
 
 #### Github Stats 📊
 
-[![Colton's github stats](https://github-readme-stats.vercel.app/api?username=coltonmilbrandt)](https://github.com/anuraghazra/github-readme-stats)
+[![Colton's github stats](https://github-readme-stats.vercel.app/api?username=coltonmilbrandt&hide=stars,contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
