@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @coltonmilbrandt
-- 👀 I’m interested in the impact Blockchain will have on our social and financial systems.
-- 🌱 I’m a die hard creator currently exploring ways to solve centralization problems, fraud, and create new and unimagined social dynamics.
-- 💞️ I’m looking to collaborate on projects fearless enough to re-imagine structural issues and engineer solutions.
-- 📫 How to reach me: coltonmilbrandt@gmail.com
+- 👋  Hi, I’m Colton Milbrandt
+- 👀  I’m interested in the impact Blockchain will have on our social and financial systems.
+- 🌱  I’m a die hard creator currently exploring ways to solve centralization problems, fraud, and create new and unimagined social dynamics.
+- 💞️  I’m looking to collaborate on projects fearless enough to re-imagine structural issues and engineer solutions.
+- 📫  How to reach me: coltonmilbrandt@gmail.com
 
 #### Github Stats 📊
 
