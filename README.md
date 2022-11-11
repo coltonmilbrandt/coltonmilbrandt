@@ -1,6 +1,6 @@
 👋  Hi, I’m Colton Milbrandt
 
-I'm a Smart Contract engineer with a background in Finance.
+I'm a Smart Contract Engineer with a background in Finance.
 
 I enjoy finding elegant, simple solutions that challenge how we think about complex problems.
 
