@@ -4,6 +4,8 @@ I'm a Smart Contract Engineer with a background in Finance.
 
 I enjoy finding elegant, simple solutions that challenge how we think about complex problems.
 
+My Skills: Solidity, Brownie, Javascript, Python, Ganache, Hardhat, Next/React.js, Web3
+
 Contact me at coltonmilbrandt@gmail.com
 
 #### Github Stats 📊
