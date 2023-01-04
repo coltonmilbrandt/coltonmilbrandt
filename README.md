@@ -8,6 +8,8 @@ My Skills: Solidity, Brownie, Javascript, Python, Ganache, Hardhat, Next/React.j
 
 Contact me at coltonmilbrandt@gmail.com
 
+![programming logos](logos.png)
+
 #### Github Stats 📊
 
 [![Colton's github stats](https://github-readme-stats.vercel.app/api?username=coltonmilbrandt&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
