@@ -4,7 +4,7 @@
 
 As a skilled developer with seven years of experience in software development and finance, I enjoy using my technical skills to drive ambitious projects to launch. 
 
-Skills: Solidity ∙ Javascript ∙ Hardhat ∙ Brownie ∙ Python ∙ Next/React.js ∙ Web3 ∙ RESTful API
+Skills:  Solidity ∙ Javascript ∙ Hardhat ∙ Brownie ∙ Python ∙ Next/React.js ∙ Web3 ∙ RESTful API
 
 ![programming logos](tech.png)
 
