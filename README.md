@@ -8,7 +8,7 @@ Solidity ∙ Javascript ∙ Hardhat ∙ Brownie ∙ Python ∙ Next/React.js ∙
 
 ![programming logos](tech.png)
 
-I recently used Solidity to design and code [Gwin](https://coltonmilbrandt.gitbook.io/gwin/), a unique market launching AMM. Prior to that, as founder of [Rent Buddy Inc](https://coltonmilbrandt.gitbook.io/rent-buddy/), I secured over $100k in funding and led a team of 14 to successfully launch a pioneering all-in-one rental property management app. In addition to my technical skills, I am a strong communicator and have extensive experience in project management including years of working effectively with remote teams. I am always eager to explore new opportunities, especially projects that fully realize the potential of blockchain technology.
+I recently used Solidity to design and code [Gwin](https://coltonmilbrandt.gitbook.io/gwin/), a unique market launching AMM. Prior to that, as founder of [Rent Buddy Inc](https://coltonmilbrandt.gitbook.io/rent-buddy/), I secured over $100k in funding and led a team of 14 to successfully launch a pioneering all-in-one rental property management app. In addition to my technical skills, I am a strong communicator and have extensive experience in project management including years of working effectively with remote teams. I am always eager to explore new opportunities.
 
 Contact me at coltonmilbrandt@gmail.com
 
