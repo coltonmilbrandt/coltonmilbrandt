@@ -16,5 +16,4 @@ Contact me at coltonmilbrandt@gmail.com
 
 [Read About Gwin](https://coltonmilbrandt.gitbook.io/gwin/) | [Read About Rent Buddy](https://coltonmilbrandt.gitbook.io/rent-buddy/)
 
-[![Colton's github stats](https://github-readme-stats.vercel.app/api?username=coltonmilbrandt&hide=stars,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coltonmilbrandt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
