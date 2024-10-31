@@ -1,8 +1,8 @@
 👋  Hey there! I’m [Colton Milbrandt](https://coltonmilbrandt.com/).
 
-💻 Software Developer 🔗 Blockchain Developer 📈 Finance
+📈 Finance 💻 Software Developer
 
-As a skilled developer with seven years of experience in software development and finance, I enjoy using my technical skills to drive ambitious projects to launch. 
+With nine years of experience in finance software development, I enjoy using my technical skills to drive ambitious projects to launch. 
 
 Solidity ∙ Javascript ∙ Hardhat ∙ Brownie ∙ Python ∙ Next/React.js ∙ Web3 ∙ RESTful API
 
